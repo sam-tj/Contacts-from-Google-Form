@@ -2,10 +2,14 @@
 
 This file will help you to modify the script accrding to your requirements.
 Further information  can be found at,
-- https://developers.google.com/apps-script/reference/contacts
+- https://developers.google.com/people/api/rest/v1/people
 - https://developers.google.com/apps-script/reference/spreadsheet
 
 For any changes and for request, please contact here.
+
+### Add People API in Services.
+Follow the steps in this section:
+- https://developers.google.com/people/quickstart/apps-script#enable_the
 
 ### Permissions
 The permissions are required as the scripts work as a 3rd party entity and for general user it is just a random code which might cause issues.
@@ -32,6 +36,6 @@ Here the columns used,
 
 If Other columns are used, they have to be referred accordingly in the script.
 
-### Addition of Group Feature 
-To have a specific group for your form contacts, you can enable the grouping by un commenting the code where i'ts mentioned.
-You can then enter your specfic group name as per requirement in *line 1*
+## Pending to fix
+ - Group Feature 
+
